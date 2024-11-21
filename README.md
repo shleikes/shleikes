@@ -20,7 +20,9 @@ Currently working at Magma Devs (the initial core contributer to [Lava Network](
 
 Ex-Founder of BridgeIt - a DevTool startup, aiming to ease the onboarding of developers into new codebases, using ML and visual graphs. 
 
-With a strong work ethic, effective people skills, and a commitment to excellence, I offer a unique blend of leadership and technical expertise in small to big system development, blockchain included.
+With a strong work ethic, effective people skills, and a commitment to excellence.
+
+I offer a unique blend of leadership and technical expertise in small to big system development, blockchain included.
 
 Reach me here: elad@gildnur.com
 
