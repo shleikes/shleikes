@@ -40,7 +40,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
-  <code><img width="20%" src="https://cdn.prod.website-files.com/642c9c8327126062770bfdd0/65a1726ec8c996263e731baa_wordmark-full.png"></code>
+  <code><img width="15%" src="https://cdn.prod.website-files.com/642c9c8327126062770bfdd0/65a1726ec8c996263e731baa_wordmark-full.png"></code>
 
   <br />
   <code><img width="10%" src="https://cosmos.network/presskit/cosmos-brandmark-dynamic-dark.svg"></code>
